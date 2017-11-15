@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Uygun disk alanını görüntüler.
 
